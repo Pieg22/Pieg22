@@ -1,11 +1,13 @@
  Hi, I’m Pere. 
  
-  I currently studing , acces test to university +25 . 
-  I learning on my own way for now . 
+ Data Science Student on first year .
+
+  Maths and programming on my own , for now . 
+  
   Freelance Electrician looking for learn Data Science . 
 
-  Bruto ( my dog ) , nature , trail running , and always looking for discover new woods , mountains... Also the best part of nature , spend some time chilling 
-  enjoying the nature  just looking the landscape ofc .
+  Bruto ( my dog ) , nature , sports , and always looking for discover new woods , mountains , methods ... Also the best part of nature and physical activity , spend some time chilling 
+  enjoying the nature  just looking the landscape ofc . 
   
   
 
