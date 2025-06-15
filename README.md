@@ -1,13 +1,13 @@
  Hi, I’m Pere. 
  
- Data Science Student on first year .
+ I will start Data Science Career this year.
 
   Maths and programming on my own , for now . 
   
   Freelance Electrician looking for learn Data Science . 
 
-  Bruto ( my dog ) , nature , sports , and always looking for discover new woods , mountains , methods ... Also the best part of nature and physical activity , spend some time chilling 
-  enjoying the nature  just looking the landscape ofc . 
+  
+
   
   
 
