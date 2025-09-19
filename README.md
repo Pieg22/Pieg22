@@ -1,8 +1,6 @@
  Hi, I’m Pere. 
  
  I will start Data Science Career this year.
-
-  Maths and programming on my own , for now . 
   
   Freelance Electrician looking for learn Data Science . 
 
