@@ -15,7 +15,7 @@
 - :school: I am a `Junior` at European Univeristy of Valencia `Bachelor's Degree in Data Science` 1st year. 
 - :technologist: I love using tech for do  deep study , and develop curiosity . 
 - :computer: I am a competitive on comunication with people , looking for good questions .
-- :student: I’m currently learning `Learning C++ foundations of programming`,`computer science`,`Statics`, `mathematical analyst` , `foundations of DC`
+- :student: I’m currently learning `POO with python`,`business management and organization`,`And doing many stuff with datos.ninja` 
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for find people for learn in comunity . 
 
